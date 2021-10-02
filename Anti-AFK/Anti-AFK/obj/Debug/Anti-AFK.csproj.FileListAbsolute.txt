@@ -1,0 +1,10 @@
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.exe.config
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.exe
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.pdb
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.AssemblyReference.cache
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Form1.resources
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Properties.Resources.resources
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.GenerateResource.cache
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.CoreCompileInputs.cache
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.exe
+C:\Users\cenkerayy\source\repos\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.pdb
